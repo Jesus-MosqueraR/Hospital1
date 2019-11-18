@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-HOLA JEAN 
+//No Asi no se juega!
 
 /**
  *
