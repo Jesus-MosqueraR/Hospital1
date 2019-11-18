@@ -275,6 +275,7 @@ public class FrmCrud extends javax.swing.JFrame {
     
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+    //Puedes borrar los comentarios 
     private void initComponents() {
 
         PanelFondo = new javax.swing.JPanel();
